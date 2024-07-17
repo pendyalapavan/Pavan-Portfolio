@@ -13,7 +13,7 @@ const Intro = () => {
             <p className='introPara'>I'm a skilled web developer with experince in creating <br/> fully functional full stack websites </p>        
             <Link><button className='hirebtn'><img src={btnimage}alt=""  className='btnimg'/>Hire Me</button></Link>
         </div>
-        <img src={bgimage} alt="image" className='bgimage'/>
+        <img src={bgimage} alt="MYBGIMAGE" className='bgimage'/>
     </section>
   )
 }

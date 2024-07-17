@@ -18,16 +18,16 @@ const Skills = () => {
         <h2 className='skillTitle'>My <span className='s'> S</span>kills</h2>
         <span className='skillDesc'>I am proficient in HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Python, SQL, and Bootstrap, enabling me to create dynamic and responsive web applications. My diverse skill set allows me to develop full-stack solutions with robust front-end interfaces and efficient back-end infrastructures.</span>
         <div className='skillImgs'>
-            <img src={Html} alt="" className='skillImg'/>
-            <img src={Css} alt="" className='skillImg'/>
-            <img src={Bootstrap} alt="" className='skillImg'/>
-            <img src={JavaScript} alt="" className='skillImg'/>
-            <img src={Reactt} alt="" className='skillImg'/>
-            <img src={Pythonn}alt="" className='skillImg'/>
-            <img src={Sql} alt="" className='skillImg'/>
-            <img src={MongoDB} alt="" className='skillImg'/>
-            <img src={Nodejs} alt="" className='skillImg'/>
-            <img src={Express} alt="" className='skillImg'/>
+            <img src={Html} alt="HTML" className='skillImg'/>
+            <img src={Css} alt="CSS" className='skillImg'/>
+            <img src={Bootstrap} alt="BOOT" className='skillImg'/>
+            <img src={JavaScript} alt="JS" className='skillImg'/>
+            <img src={Reactt} alt="REACT" className='skillImg'/>
+            <img src={Pythonn}alt="PYTHON" className='skillImg'/>
+            <img src={Sql} alt="SQL" className='skillImg'/>
+            <img src={MongoDB} alt="MONGO" className='skillImg'/>
+            <img src={Nodejs} alt="NODE" className='skillImg'/>
+            <img src={Express} alt="EXPRESS" className='skillImg'/>
         </div>
     </section>
   )

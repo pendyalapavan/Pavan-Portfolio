@@ -10,7 +10,7 @@ const Experience = () => {
         <span className='expDesc'>I completed my B.Tech in Computer Science and Engineering, and I have extensive experience in frontend development. </span>
         <div className='expBars'>
             <div className='expBar'>
-                <img src={vnr} alt="webimg" className='expBarImg'/>
+                <img src={vnr} alt="VNRIMAGE" className='expBarImg'/>
                 <div className='expBarText'>
                     <h2>Graduation</h2>
                     <p> I completed my graduation in CSE with an aggregate CGPA of 8.4.</p>
@@ -18,7 +18,7 @@ const Experience = () => {
             </div>
 
             <div className='expBar'>
-                <img src={purecode} alt="webimg" className='expBarImg'/>
+                <img src={purecode} alt="PURECODEIMAGE" className='expBarImg'/>
                 <div className='expBarText'>
                     <h2>Internship</h2>
                     <p>
