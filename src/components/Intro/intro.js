@@ -11,9 +11,9 @@ const Intro = () => {
             <span className='hello'>Hello,  </span>
             <span className='introtext'>I'm <span className='introname'>Pavan Pendyala</span><br/>Website Developer</span>
             <p className='introPara'>I'm a skilled web developer with experince in creating <br/> fully functional full stack websites </p>        
-            <Link><button className='hirebtn'><img src={btnimage}alt=""  className='btnimg'/>Hire Me</button></Link>
+            <Link><button className='hirebtn'><img src={btnimage}alt="nio"  className='btnimg'/>Hire Me</button></Link>
         </div>
-        <img src={bgimage} alt="MYBGIMAGE" className='bgimage'/>
+        <img src={bgimage} alt="MYBG" className='bgimage'/>
     </section>
   )
 }

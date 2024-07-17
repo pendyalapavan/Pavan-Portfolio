@@ -36,11 +36,11 @@ const Contact = () => {
             <textarea className='msg' name="message" rows="5" placeholder='Your Message'></textarea>
             <button type="submit" value="send" className='submitBtn' >Submit</button>
             <div className='links'>
-                <img src={facebook} alt="FACEBOOKIMAGE" className='link'/>
-                <img src={twitter} alt="TWITTERIMAGE" className='link'/>
-                <img src={insta} alt="INSTAIMAGE" className='link'/>
-                <img src={youtube} alt="YOUTUBEIMAGE" className='link'/>
-                <img src={github} alt="GITHUBIMAGE" className='link'/>
+                <img src={facebook} alt="FACEBOOK" className='link'/>
+                <img src={twitter} alt="TWITTER" className='link'/>
+                <img src={insta} alt="INSTA" className='link'/>
+                <img src={youtube} alt="YOUTUBE" className='link'/>
+                <img src={github} alt="GITHUB" className='link'/>
             </div>
         </form>
     </section>

@@ -19,7 +19,7 @@ const About = () => {
             </div>
 
             <div className='aboutBar'>
-                <img src={webdesign} alt="webimg" className='aboutBarImg'/>
+                <img src={webdesign} alt="web" className='aboutBarImg'/>
                 <div className='aboutBarText'>
                     <h2>Web Developer</h2>
                     <p>
@@ -28,7 +28,7 @@ const About = () => {
             </div>
 
             <div className='aboutBar'>
-                <img src={cyber} alt="webimg" className='aboutBarImg'/>
+                <img src={cyber} alt="webb" className='aboutBarImg'/>
                 <div className='aboutBarText'>
                     <h2>Cyber Security</h2>
                     <p>
