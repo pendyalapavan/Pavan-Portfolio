@@ -35,20 +35,21 @@ const Contact = () => {
             <input type='email' className='email' placeholder='Your Email' name='your_email'/>
             <textarea className='msg' name="message" rows="5" placeholder='Your Message'></textarea>
             <button type="submit" value="send" className='submitBtn' >Submit</button>
+           
             <div className='links'>
                   <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
-                      <img src={facebook} alt="FACEBOOK" className='link'/>
+                      <img src={facebook} alt="FACEBOOOK" className='link'/>
                   </a>
                   <a href="https://x.com/pavanpendyala_?t=e9UV7FaYqgtcmMI3fLhmyA&s=09" target="_blank" rel="noopener noreferrer">
                       <img src={twitter} alt="TWITTER" className='link'/>
                   </a>
                   <a href="https://www.instagram.com/pavanpendyala_/" target="_blank" rel="noopener noreferrer">
-                      <img src={insta} alt="INSTA" className='link'/>
+                      <img src={insta} alt="INSTAA" className='link'/>
                   </a>
                   <a href="https://www.youtube.com/@mrPK-pp2sn" target="_blank" rel="noopener noreferrer">
                       <img src={youtube} alt="YOUTUBE" className='link'/>
                   </a>
-                  <a href="https://github.com/pendyalapavan" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/pendyalapavan" target="_blank" rel="noopener noreferrer"> 
                       <img src={github} alt="GITHUB" className='link'/>
                   </a>
              </div>
